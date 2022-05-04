@@ -35,6 +35,7 @@
     "eject": "react-scripts eject",
     "gogo": "node ./integrationsseminar_api/server.js && npm start"
   },
+  "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": [
       "react-app",
